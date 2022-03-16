@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **kanasaki15/kanasaki15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 茅野ななみ (Tino Nanami)
+Only Japanese is available.
+
+Twitter : https://twitter.com/tn_7mi
+Mail : tino_nanami@7mi.site
+Discord : 茅野ななみ#7373
