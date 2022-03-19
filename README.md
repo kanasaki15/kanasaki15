@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### 茅野ななみ (Tino Nanami)
 Only Japanese is available.
 
-Twitter : https://twitter.com/tn_7mi
-Mail : tino_nanami@7mi.site
-Discord : 茅野ななみ#7373
+- ななみ鯖 Owner (https://github.com/nanami-network)
+- Twitter : https://twitter.com/tn_7mi
+- Mail : tino_nanami@7mi.site
+- Discord : 茅野ななみ#7373
