@@ -21,4 +21,4 @@ Only Japanese is available.
 - ななみ鯖 Owner (https://github.com/nanami-network)
 - Twitter : https://twitter.com/tn_7mi
 - Mail : tino_nanami@7mi.site
-- Discord : 茅野ななみ#7373
+- Discord : chino_nanami
